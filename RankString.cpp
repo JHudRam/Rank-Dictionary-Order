@@ -1,9 +1,3 @@
-/*
-PIC 10A Homework 2, RankString.cpp
-Author: Jacob Ramos
-Date: 02/06/2023
-*/
-
 #include <iostream>
 #include <string>
 using namespace std;
